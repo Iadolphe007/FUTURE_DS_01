@@ -75,22 +75,6 @@ Recommended business actions include reviewing low-profit or loss-making product
 5. Select chart elements or slicers, if present, to explore filtered results.
 6. Review the insights and recommendations alongside the visual evidence.
 
-## Project Structure
-
-A suggested structure for sharing the project:
-
-```text
-superstore-sales-analysis/
-├── README.md
-├── data/
-│   └── superstore_dataset.xlsx
-├── report/
-│   └── superstore_dashboard.pbix
-└── screenshots/
-    └── dashboard_overview.png
-```
-
-This is a suggested layout. Rename folders and files to match the actual files you include. Do not publish the dataset if its licence or sharing terms do not allow redistribution.
 
 ## Validation and Testing
 
