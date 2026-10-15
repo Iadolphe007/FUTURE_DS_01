@@ -1,6 +1,6 @@
 # Superstore Sales Analysis Dashboard
 
-An interactive sales analytics project developed during the **Future Intern Data Analytics Internship**. The project uses the Superstore dataset to explore sales performance, profitability, geographical trends, and performance over time through an interactive Power BI dashboard.
+An interactive sales analytics project developed, The project uses the Superstore dataset to explore sales performance, profitability, geographical trends, and performance over time through an interactive Power BI dashboard.
 
 ## Project Overview
 
@@ -102,7 +102,6 @@ The dashboard describes patterns in the supplied dataset. It does not, by itself
 ## Author
 
 **Project:** Superstore Sales Analysis Dashboard  
-**Program:** Future Intern — Data Analytics Internship  
 **Tools:** Microsoft Power BI Desktop, Microsoft Excel, DAX
 
 ---
